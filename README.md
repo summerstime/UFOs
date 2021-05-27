@@ -1,15 +1,15 @@
-# UFOs Filtered Table
+# UFOs 
 
-Moduel 11 Project
+Module 11 Project
 
 ## Overview
 
 This project is to satisfy the requirements for the 11th module challenge in the Data Analytics Bootcamp.
 In this module, Dana is creating a website for others to learn more about UFO sightings. This project utilizes
-JavaScript to make an interactive webpage. The user can input different key aspects to filter the information table.
+JavaScript, HTML, and CSS to make an interactive webpage. The user can input different key aspects to filter the information table.
 
 ### Snapshot of the Webpage
-![Webpage Snapshot](https://github.com/summerstime/UFOs/blob/main/static/images/Websiteintro.png)
+![Webpage Snapshot](https://github.com/summerstime/UFOs/blob/main/static/images/WebsiteIntro.png)
 
 ## Results
 
@@ -24,6 +24,6 @@ JavaScript to make an interactive webpage. The user can input different key aspe
 
 ## Summary
 
-- One of the drawbacks of the webpage is that it is not live data. As you can see, the data is from 2010.
-- The would be one of my recommendations. Connect to an API instead or a more current data source.
-- The next recommendation would be to have links in the webpage to other sites that promote UFO discussions.
+- One of the drawbacks of the webpage is that it is not live data. As you can see, the data is rather old.
+- That would be one of my recommendations. Connect to an API or a more current data source.
+- The next recommendation would be to have links to other sites that promote UFO discussions.
